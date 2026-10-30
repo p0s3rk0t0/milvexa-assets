@@ -1,0 +1,20 @@
+{
+  "name": "MILVEXA",
+  "symbol": "MVXA",
+  "description": "MILVEXA (MVXA) is a digital token built on Solana, designed around a distinctive visual identity and a foundation for future community-driven development.",
+  "image": "https://p0s3rk0t0.github.io/milvexa-assets/milvexa-logo-512.png",
+  "external_url": "https://milvexa.xyz/",
+  "properties": {
+    "files": [
+      {
+        "uri": "https://p0s3rk0t0.github.io/milvexa-assets/milvexa-logo-512.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image"
+  },
+  "extensions": {
+    "website": "https://milvexa.xyz/",
+    "telegram": "https://t.me/EvchargingEurope"
+  }
+}
